@@ -8,7 +8,7 @@
 [![made-with-Markdown](https://img.shields.io/badge/Coded%20in-R-red.svg)](https://www.r-project.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-Data and code relative to the Grosche et al. 2025 manuscript about the chemosynthetic microbiome of deepsea hydrothermal vents in the East Pacific Rise. Sequences are available through the NCBI SRA archive with accession numbers xxxx for the amplicon data and through the MG-RAST archive with accession numbers xxxx and xxxx for the metatranscriptomic data.
+Data and code relative to the Grosche et al. 2025 manuscript about the chemosynthetic microbiome of deepsea hydrothermal vents in the East Pacific Rise. Sequences are available through the NCBI SRA archive with accession numbers PRJNA1092253 for the amplicon data and through the MG-RAST archive with accession numbers MGM4773053.3 and MGM4773182.3 for the metatranscriptomic data.
 
 The repository contains the following files:
 
