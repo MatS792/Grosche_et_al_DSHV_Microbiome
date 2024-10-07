@@ -19,3 +19,4 @@ The repository contains the following files:
 - a series of .csv files to replicate the figures and analyses reported in the paper
 
 Please cite as:
+Ashley Grosche, Matteo Selci, Francesco Smedile, Donato Giovannelli, Sara Borin, Nadine Le Bris, and Costantino Vetriani. 2024. The chemosynthetic microbiome of deep-sea hydrothermal vents across space and time. -Submitted-
