@@ -4,7 +4,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
 [![deepseamicrobiologylab](https://img.shields.io/badge/BY-DeepseaMicrobiologyLab-blue)](https://marine.rutgers.edu/deep-seamicrobiology/)
-DOI 10.5281/zenodo.13899446
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13899446.svg)](https://doi.org/10.5281/zenodo.13899446)
 [![made-with-Markdown](https://img.shields.io/badge/Coded%20in-R-red.svg)](https://www.r-project.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
