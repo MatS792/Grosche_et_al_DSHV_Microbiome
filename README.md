@@ -13,10 +13,14 @@ Data and code relative to the Grosche et al. 2025 manuscript about the chemosynt
 The repository contains the following files:
 
 - README.md (this readme file)
-- Grosche_et_al_16S.r (the r code to reproduce the figures)
-- Grosche_et_al_metatranscriptomic.r (the r code to reproduce the figures)
-- grosche_et_al_env_dataset.csv (the environmental dataset)
-- a series of .csv files to replicate the figures and analyses reported in the paper
+- 16S_rRNA folder with 2 subfolders: dada2 and phyloseq
+  - grosche_et_al_dada2.r (the r code to reproduce the dada2 analysis)
+  - grosche_et_al_phyloseq.r (the r code to reproduce the figures)
+  - a series of .csv files to replicate the figures and analyses reported in the paper
+- Metatranscriptomic folder
+  - Grosche_et_al_metatranscriptomic.r (the r code to reproduce the figures)
+  - metaxa_metatranscriptomic.r (the r code to reproduce the figures)
+  - a series of .csv files to replicate the figures and analyses reported in the paper
 
 Please cite as:
 Ashley Grosche, Matteo Selci, Francesco Smedile, Donato Giovannelli, Sara Borin, Nadine Le Bris, and Costantino Vetriani. 2024. The chemosynthetic microbiome of deep-sea hydrothermal vents across space and time. -Submitted-
