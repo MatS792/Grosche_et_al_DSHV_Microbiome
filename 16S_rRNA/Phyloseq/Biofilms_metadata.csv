@@ -1,0 +1,21 @@
+SampleID,Original_ProjectName,Substrate,Bioregime,Site,Temperature,Hydrogen_sulfide,pH,Age,Habitat_Temp_Low_AVG,Habitat_Temp_High_AVG,Optode_oxygen,Optode_air,Optode_Temperature,Oxygen_L_dl,Oxygen_H_dl,Temp_L_dl,Temp_H_dl,Temp_L_spot,Temp_H_spot,pH_Low,pH_High,H2S_Low,H2S_High,Deployment_hrs,BarcodeSequence,LinkerPrimerSequence,BarcodeName,Program,Sample_Label
+ALV1,ALV14,Colonizer,Alvinella,Bio9,29.2,155.3,7.5,Newly-formed,9,49.3,98.54,24.43,4.53,91,91,10,10,6.5,10,,,,,233,GAGTGACA,GTGCCAGCMGCCGCGGTAA,bac515Fitibar14,011415CV515Fpgm,CV64
+ALV3,ALV16,Colonizer,Alvinella,Bio9,29.2,155.3,7.5,Newly-formed,9,49.3,107.7,27.1,5.5,104.4,104.4,7.5,44,4.5,6.8,,,28,40,151.5,GAGTGTCT,GTGCCAGCMGCCGCGGTAA,bac515Fitibar16,011415CV515Fpgm,CV74
+ALV2,ALV15,Colonizer,Alvinella,M-vent,75.2,412.9,7.5,Newly-formed,14.4,136,96.6,29.1,13.82,98,102.6,9.5,75,6,11,,,15,115,100.25,GAGTGAGT,GTGCCAGCMGCCGCGGTAA,bac515Fitibar15,011415CV515Fpgm,CV75
+ALV4,ALV17,Scraping,Alvinella,Bio9,29.2,155.3,7.5,Established,9,49.3,,,,,,,,,,,,,,,AGTACGAG,GTGCCAGCMGCCGCGGTAA,bac515FION35,080415CV515F,Alvinella tube
+NM1,BAS13,Colonizer,Bare Basalt,Teddy Bear,4.7,5.1,7.2,Newly-formed,1.91,7.48,106.6,25,2.54,29,88.1,5.5,12,3,11,,,3,17,79.5,GAGTCTGT,GTGCCAGCMGCCGCGGTAA,bac515Fitibar13,011415CV515Fpgm,CV79
+NM2,BAS12,Basalt,Filaments,Teddy Bear,6.1,7.8,7,Established,1.84,10.4,47.6,13.1,8.7,32.2,32.2,7,7,7.1,7.5,6.5,6.6,5,12,,GAGTCTCA,GTGCCAGCMGCCGCGGTAA,bac515Fitibar12,011415CV515Fpgm,Basalt with white filaments
+NM3,FIL20,Sulfide,Filaments,P-vent,6.6,,,Established,2.6,10.5,,,,,,6.2,6.2,3.3,9.1,6.4,7.6,8,17,,AGTATACA,GTGCCAGCMGCCGCGGTAA,bac515FION38,080415CV515F,P-vent sulfide with filaments
+MUS1,BAS9,Basalt,Mussels,Crab Spa,5.7,23.8,6.7,Established,5,6.3,96.34,23.55,4,96.34,96.34,9.1,24,9.1,24,,,,,,GAGTAGTG,GTGCCAGCMGCCGCGGTAA,bac515Fitibar9,011415CV515Fpgm,Basalt biofilm with mussels
+MUS2,MUS18,Colonizer,Mussels,Perseverence,8,12.3,6.7,Newly-formed,3.5,12.5,47.56,13.05,8.65,32,98,10,10,10,10,,,,,211,AGTACGCG,GTGCCAGCMGCCGCGGTAA,bac515FION36,080415CV515F,CV67
+MUS3,MUS7,Scraping,Mussels,Crab Spa,5.7,23.8,6.7,Established,5,6.3,96.34,23.55,4,96.34,96.34,3.5,3.7,3.5,3.7,,,,,,GAGTACTC,GTGCCAGCMGCCGCGGTAA,bac515Fitibar7,011415CV515Fpgm,Biofilm Mussels
+MUS4,MUS8,Scraping,Mussels,Crab Spa,5.7,23.8,6.7,Established,5,6.3,96.34,23.55,4,96.34,96.34,5.7,6,4.5,6,,,,,,GAGTAGAC,GTGCCAGCMGCCGCGGTAA,bac515Fitibar8,011415CV515Fpgm,Mussels Dive 4763
+RIF1,BAS10,Basalt,Riftia,Crab Spa,15.4,86.6,6.4,Established,3.2,27.5,,,,,,,,,,,,,,,GAGTCACT,GTGCCAGCMGCCGCGGTAA,bac515Fitibar10,011415CV515Fpgm,Basalt with Riftia
+RIF3,BAS11,Colonizer,Riftia,Crab Spa,15.4,14.4,6.8,Newly-formed,3.2,27.5,,,,,,10,48,10,48,,,,,96.5,GAGTCAGA,GTGCCAGCMGCCGCGGTAA,bac515Fitibar11,011415CV515Fpgm,CV88
+RIF2,RIF19,Colonizer,Riftia,Tica,14.5,62.2,6.3,Newly-formed,9.6,19.3,,,,,,8,12,8,12,,,,,165,AGTAGTGC,GTGCCAGCMGCCGCGGTAA,bac515FION37,080415CV515F,CV84
+RIF6,RIF6,Colonizer,Riftia,Tica,14.5,81,6.2,Newly-formed,9.6,19.3,,,,,,8,10,8,12,,,,,239.5,GAGTACAG,GTGCCAGCMGCCGCGGTAA,bac515Fitibar6,011415CV515Fpgm,CV85
+RIF4,RIF4,Scraping,Riftia,P-vent,6.6,4.9,7.2,Established,2.6,10.5,,,,,,6,6,6,6,7.3,7.9,0,1,,GAGATGAC,GTGCCAGCMGCCGCGGTAA,bac515Fitibar4,011415CV515Fpgm,Riftia Top oxidized
+RIF5,RIF5,Scraping,Riftia,P-vent,6.6,22.9,7,Established,2.6,10.5,,,,,,6,6,6,6,7.3,7.9,0,1,,GAGATGTG,GTGCCAGCMGCCGCGGTAA,bac515Fitibar5,011415CV515Fpgm,Riftia Base
+SW3,RBS3,Seawater,Fluids,Crab Spa,,,,,2.5,2.5,,,,,,,,,,,,,,,GAGATCTC,GTGCCAGCMGCCGCGGTAA,bac515Fitibar3,011415CV515Fpgm,LVP2DG
+SW1,RBS1,Seawater,Fluids,Water column,1.9,0,7.9,Established,2.5,2.5,,,,,,1.8,2.5,2.5,2.5,,,,,,GAGAGTGT,GTGCCAGCMGCCGCGGTAA,bac515Fitibar1,011415CV515Fpgm,Reference bottom seawater
+SW2,RBS2,Seawater,Fluids,Water column,1.9,0,7.9,Established,2.5,2.5,,,,,,1.9,2.5,2.5,2.5,,,,,,GAGATCAG,GTGCCAGCMGCCGCGGTAA,bac515Fitibar2,011415CV515Fpgm,Reference bottom seawater
