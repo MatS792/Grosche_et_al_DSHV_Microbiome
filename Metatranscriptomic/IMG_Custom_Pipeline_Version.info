@@ -1,0 +1,24 @@
+PIPELINE VERSION: 4.15.1
+
+___Executables used for QA/QC___
+Low complexity filtering: dustmasker_64bit 1.0.0
+
+___Executables used for structural annotation___
+CDS: Prodigal V2.6.3 February, 2016; prokaryotic GeneMark.hmm version 2.8
+CRISPR: CRT Command Line Interface, Version 1.8.2
+tRNA: INFERNAL 1.1.2)
+rRNA: HMMER 3.1b2
+
+___Data used for structural annotation___
+tRNA
+rRNA
+
+___Executables used for functional annotation___
+COG
+Pfam
+KO/EC/Phylodistribution
+
+___Data used for functional annotation___
+COG
+Pfam
+IMG NR (KO/EC/Phylodistribution)
